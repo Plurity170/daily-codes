@@ -30,3 +30,8 @@ This project was built to demonstrate:
 - **GitHub Pages** – live deployment
 
 ## 📁 Project Structure
+
+## License
+
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
